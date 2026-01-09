@@ -45,10 +45,11 @@ I learn best by experimenting with real codebases, not just tutorials.
 
 ---
 
-## 🎸 Outside code
+## 🎯 Outside code
+- Chess (active player)
+- Following combat sports (Boxing & UFC)
+- Listening to music (Eminem, hip-hop)
 - Guitar (on and off, but always comes back)
-- Boxing & tennis
-- Thinking deeply about things most people ignore
 
 ---
 
