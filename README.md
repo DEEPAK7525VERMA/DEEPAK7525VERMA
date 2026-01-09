@@ -19,7 +19,7 @@ I learn best by experimenting with real codebases, not just tutorials.
 - **Backend:** Spring Boot (learning), REST APIs  
 - **Mobile:** Flutter  
 - **CS Fundamentals:** DSA, OOP, DBMS basics  
-- **Tools:** Git, GitHub, Linux basics
+- **Tools:** Git, GitHub
 
 ---
 
